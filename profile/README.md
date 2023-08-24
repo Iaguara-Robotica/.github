@@ -13,6 +13,7 @@
 
 ## We are Iaguara Robótica! 
  ![Iaguara-Robotica Status](https://github-readme-stats.vercel.app/api?username=Iaguara-Robotica&show_icons=true)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?organization=Iaguara-Robotica&hide_progress=true)
   
   ##
   
